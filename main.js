@@ -9,3 +9,4 @@ b = 20;
 c = 30;
 let x = a + b + c;
 document.getElementById("output2").innerHTML = x;
+
